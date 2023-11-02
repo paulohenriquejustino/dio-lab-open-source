@@ -23,11 +23,6 @@ Olá, sou Paulo Henrique, apaixonado por tecnologia desde cedo. Recentemente, fi
 ---
 ### Conecte-se comigo:
 
-<a href="phjustino125@gmail.com" target="_blank">
-<img src="https://img.shields.io/badge/gmail:  phjustino125@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
-</a>
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/paulo-henrique-de-paiva-barbosa-justino-375204256/)
 
 
